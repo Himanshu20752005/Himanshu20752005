@@ -47,9 +47,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
 </p>
 
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Himanshu20752005/Himanshu20752005.svg" />
-</p>
+
 
 ## Support me
 <p align="center">
