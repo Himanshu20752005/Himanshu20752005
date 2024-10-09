@@ -30,10 +30,6 @@
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/Himanshu20752005">
-    <img width="55%" align="right" alt="Himanshu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Himanshu20752005&show_icons=true&hide_border=true" />
-  </a>
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -47,7 +43,9 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
 </p>
 
-
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Himanshu20752005/Himanshu20752005.svg" />
+</p>
 
 ## Support me
 <p align="center">
