@@ -1,67 +1,60 @@
-## Hi, I'm Himanshu Pandey, a Developer 🚀 from India.
+<div align="left">
+    <h1>👋🏻 Hey! I'm <a href="https://kevzpeter.com" target="_blank">Kevin</a></h1>
+    <br/>
+    <img src="./gifs/chill-dev-pixel-art.gif" height="300px" width="auto">
+<div>
 
-<!-- Your badges -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Himanshu20752005)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/himanshu-pandey-9419a9276)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/nothingmuch2005/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Pandeyhs_1@rknec.edu)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/HimanshuPandey2005/)
+<div align="left">
+<h3>🎉 I love solving challenges by experimenting with the latest technologies! </h3>
 
-&nbsp;
+▶️ I'm a grad student at [New York University](https://www.nyu.edu/), pursuing a Master's degree in Computer Science. Previously, I worked as a Software Consulting Engineer at [Cisco](https://cisco.com), where I took on multiple roles involving design, development, testing and deployment of Network Automation solutions for major Telecom companies. Prior to starting my professional journey, I graduated from [Manipal University Jaipur](https://jaipur.manipal.edu "MUJ Website") with a Bachelor's degree in Computer Science & Engineering.
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
+💖 I love football, photography, editing videos, astronomy, lo-fi music and all things tech.
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+👉🏽 Hop onto my personal website  [kevzpeter.com](https://kevzpeter.com)
 
-- 👨🏽‍💻 I’m currently working on backend development and React projects;
-- 🌱 I’m currently learning backend development and interested in Machine Learning;
-- 👯 I’m looking to collaborate on exciting React or backend projects 🤝;
-- 🤔 I’m looking for help with complex backend workflows 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I enjoy exploring tech and AI innovations;
-- 📫 How to reach me: Pandeyhs_1@rknec.edu;
+💼 Connect with me on [LinkedIn](https://linkedin.com/in/kevinpeterk)
 
-## Stats
-| GitHub                                                                                                                                             | LeetCode                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu20752005&show_icons=true&theme=transparent&hide_border=true) | ![Himanshu's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/HimanshuPandey2005?theme=neutral) |
+🧑🏽‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/kevzpeter)
+</div>
 
-**Languages and Tools:** 
+<br/>
+<div align="left">
+<details>
+    <summary>
+    📈 Stats for nerds
+    </summary>
+    <br />
+    <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=kevzpeter&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
+</details>
 
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-</p>
+<br />
 
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Himanshu20752005/Himanshu20752005.svg" />
-</p>
+<details>
+    <summary>
+    🎵 What I've been listening to
+    </summary>
+    <br />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kevzpeter" alt="Spotify Recently Played">
+</details>
 
-## Support me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/himanshu" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
+<br />
 
----
+<details>
+    <summary>
+    🧑🏽‍💻 LeetCode
+    </summary>
+    <br />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
+</details>
 
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/Himanshu20752005/your-main-project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu20752005&repo=your-main-project-1" />
-  </a>
-  <a href="https://github.com/Himanshu20752005/your-main-project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu20752005&repo=your-main-project-2" />
-  </a>
-</p>
+<br />
+
+<details>
+    <summary>
+    🦉 Duolingo
+    </summary>
+    <br />
+    <img src="https://duolingo-stats-card.vercel.app/api?username=Kevin_Peter&sort=xp" alt="Duolingo Stats">
+</details>
+</div> 
