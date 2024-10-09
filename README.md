@@ -1,5 +1,5 @@
 <div align="left">
-    <h1>👋🏻 Hey! I'm <a href="https://kevzpeter.com" target="_blank">Kevin</a></h1>
+    <h1>👋🏻 Hey! I'm <a href="https://github.com/Himanshu20752005" target="_blank">Himanshu Pandey</a></h1>
     <br/>
     <img src="./gifs/chill-dev-pixel-art.gif" height="300px" width="auto">
 <div>
@@ -7,15 +7,15 @@
 <div align="left">
 <h3>🎉 I love solving challenges by experimenting with the latest technologies! </h3>
 
-▶️ I'm a grad student at [New York University](https://www.nyu.edu/), pursuing a Master's degree in Computer Science. Previously, I worked as a Software Consulting Engineer at [Cisco](https://cisco.com), where I took on multiple roles involving design, development, testing and deployment of Network Automation solutions for major Telecom companies. Prior to starting my professional journey, I graduated from [Manipal University Jaipur](https://jaipur.manipal.edu "MUJ Website") with a Bachelor's degree in Computer Science & Engineering.
+▶️ I'm currently pursuing AI Engineering and building projects related to backend and machine learning. I have worked on various web development projects and uploaded them to my [GitHub](https://github.com/Himanshu20752005). I enjoy tackling complex backend workflows and learning about AI innovations.
 
-💖 I love football, photography, editing videos, astronomy, lo-fi music and all things tech.
+💖 I love exploring new tech, AI advancements, and staying up-to-date with backend development.
 
-👉🏽 Hop onto my personal website  [kevzpeter.com](https://kevzpeter.com)
+👉🏽 Hop onto my GitHub for my latest projects: [Himanshu Pandey](https://github.com/Himanshu20752005)
 
-💼 Connect with me on [LinkedIn](https://linkedin.com/in/kevinpeterk)
+💼 Connect with me on [LinkedIn](https://linkedin.com/in/himanshu-pandey-9419a9276)
 
-🧑🏽‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/kevzpeter)
+🧑🏽‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/u/HimanshuPandey2005/)
 </div>
 
 <br/>
@@ -25,17 +25,7 @@
     📈 Stats for nerds
     </summary>
     <br />
-    <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=kevzpeter&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
-</details>
-
-<br />
-
-<details>
-    <summary>
-    🎵 What I've been listening to
-    </summary>
-    <br />
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kevzpeter" alt="Spotify Recently Played">
+    <img src="https://github-readme-stats.vercel.app/api?username=Himanshu20752005&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
 </details>
 
 <br />
@@ -45,8 +35,17 @@
     🧑🏽‍💻 LeetCode
     </summary>
     <br />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=HimanshuPandey2005&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
 </details>
+
+<br />
+
+<!-- Your badges -->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Himanshu20752005)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/himanshu-pandey-9419a9276)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/nothingmuch2005/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Pandeyhs_1@rknec.edu)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/HimanshuPandey2005/)
 
 <br />
 
