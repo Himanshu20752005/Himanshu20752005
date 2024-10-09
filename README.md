@@ -26,7 +26,11 @@
 
 <p>
   <a href="https://github.com/Himanshu20752005">
-    <img width="55%" align="right" alt="Himanshu's github stats" src="https://github-readme-stats.vercel.app/api?username=Himanshu20752005&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Himanshu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Himanshu20752005&show_icons=true&hide_border=true" />
+  </a>
+  
+  <a href="https://leetcode.com/u/HimanshuPandey2005/">
+    <img width="45%" align="right" alt="Himanshu's LeetCode stats" src="https://leetcode-badge-sage.vercel.app/badge/HimanshuPandey2005?theme=neutral" />
   </a>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
