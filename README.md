@@ -1,4 +1,3 @@
-&nbsp;
 
 ## Hi, I'm Himanshu Pandey, a Developer 🚀 from India.
 
