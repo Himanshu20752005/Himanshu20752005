@@ -64,7 +64,7 @@
 
 ---
 
-<!-- Its main projects -->
+<!-- Its main projects 
 <p align="center">
   <a href="https://github.com/Himanshu20752005/your-main-project-1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu20752005&repo=your-main-project-1" />
@@ -73,3 +73,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu20752005&repo=your-main-project-2" />
   </a>
 </p>
+-->
