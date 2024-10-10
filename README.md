@@ -28,7 +28,13 @@
 | GitHub                                                                                                                                             | LeetCode                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu20752005&show_icons=true&theme=transparent&hide_border=true) | ![Himanshu's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/HimanshuPandey2005?theme=neutral) |
-
+<details>
+    <summary>
+    🧑🏽‍💻 LeetCode
+    </summary>
+    <br />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=HimanshuPandey2005&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
+</details>
 **Languages and Tools:** 
 
 <p>
@@ -48,13 +54,6 @@
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Himanshu20752005/Himanshu20752005.svg" />
 </p>
-<details>
-    <summary>
-    🧑🏽‍💻 LeetCode
-    </summary>
-    <br />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=HimanshuPandey2005&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
-</details>
 
 ## Support me
 <p align="center">
