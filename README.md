@@ -1,8 +1,13 @@
 ## My GitHub Contributions
 
+## My GitHub Contributions
+
 <p align="center">
-  <img alt="Himanshu's GitHub Contribution Graph" src="https://github.com/Himanshu20752005/Himanshu20752005/blob/main/github-contribution-grid-snake.svg" />
+  <img alt="Himanshu's GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Himanshu20752005&theme=react-dark" />
 </p>
+
+---
+
 
 ---
 
