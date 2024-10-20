@@ -1,3 +1,10 @@
+## My GitHub Contributions
+
+<p align="center">
+  <img alt="Himanshu's GitHub Contribution Graph" src="https://github.com/Himanshu20752005/Himanshu20752005/blob/main/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## Hi, I'm Himanshu Pandey, a Developer 🚀 from India.
 
@@ -34,6 +41,7 @@
     <br />
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=HimanshuPandey2005&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
 </details>
+
 **Languages and Tools:** 
 
 <p>
@@ -60,23 +68,3 @@
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
-
-## Snake Game 🐍
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himanshu20752005/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himanshu20752005/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Himanshu20752005/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-<!-- Its main projects 
-<p align="center">
-  <a href="https://github.com/Himanshu20752005/your-main-project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu20752005&repo=your-main-project-1" />
-  </a>
-  <a href="https://github.com/Himanshu20752005/your-main-project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu20752005&repo=your-main-project-2" />
-  </a>
-</p>
--->
